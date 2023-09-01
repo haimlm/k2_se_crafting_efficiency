@@ -1,3 +1,6 @@
+
+if mods["Load-Furn-2"] then require("other_fixes/af2-stone-fix") end
+
 if mods["bzaluminum"] then
     local util = require("__bzaluminum__.data-util")
     local item = "automation-core"

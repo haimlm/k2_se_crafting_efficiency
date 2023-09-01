@@ -1,13 +1,17 @@
 {
-  "name": "k2_se_crafting_efficiency",
-  "version": "0.0.4",
-  
-  "title": "k2_se_crafting_efficiency",
-  "description": "Crafting efficiency for Krastorio2, space exploration and other associated mods",
-  
-  "author": "nihilistzsche",
+  "name": "se_crafting_efficiency_ex",
+  "version": "0.0.1",
+  "title": "se_crafting_efficiency_ex",
+  "description": "Crafting efficiency for space exploration and other associated mods extended, based on k2_se_crafting_efficiency by nihilistzsche",
+  "author": "",
   "license": "GPL3",
-  
-  "dependencies": ["base >= 1.1.6", "crafting-efficiency-2", "?Krastorio2", "?space-exploration", "?modmashsplintergold", "?aai-industry", "? water-processing", "(?) bzaluminum", "(?) bzcarbon", "(?) bzchlorine", "(?) bzgas", "(?) bzlead", "(?) bzsilicon", "(?) bztin", "(?) bztitanium", "(?) bztungsten", "(?) bzzirconium", "? dark-matter-replicators-18", "? Sebs-Electrics" ],
+  "dependencies": [
+    "base >= 1.1.6",
+    "crafting-efficiency-2",
+    "?space-exploration",
+    "?aai-industry",
+    "?Load-Furn-2",
+    "?Rampantindustry"
+  ],
   "factorio_version": "1.1"
 }
